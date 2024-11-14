@@ -1,4 +1,4 @@
-#<h1 align="center">[ $WALLPAPER ]</h1>
+<h1 align="center">[ $WALLPAPER ]</h1>
 <p align="center">All the wallpaper I create and use.</p>
 
 
