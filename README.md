@@ -16,6 +16,7 @@
 <img src="/Wallpaper/nasa_01.png" width="300" /> 
 <img src="/Wallpaper/nasa_02.png" width="300" /> 
 <br>
+<img src="/Wallpaper/shell_01.png" width="300" /> 
 <img src="/Wallpaper/nixos_01.png" width="300" /> 
 <br>
 <img src="/Wallpaper/nixos_03.png" width="300" /> 
@@ -27,7 +28,5 @@
 <img src="/Wallpaper/nixos_07.png" width="300" /> 
 <img src="/Wallpaper/nixos_08.png" width="300" /> 
 <br>
-<img src="/Wallpaper/shell_01.png" width="300" /> 
-
 </p>
 
