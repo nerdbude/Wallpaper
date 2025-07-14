@@ -28,5 +28,7 @@
 <img src="/Wallpaper/nixos_07.png" width="300" /> 
 <img src="/Wallpaper/nixos_08.png" width="300" /> 
 <br>
+<img src="/Wallpaper/nixos_09.png" width="300" /> 
+<img src="/Wallpaper/nixos_10.png" width="300" /> 
 </p>
 
