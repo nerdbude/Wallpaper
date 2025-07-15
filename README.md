@@ -4,31 +4,36 @@
 
 
 <p align="center">
-<img src="/Wallpaper/black_lodge_01.png" width="300" /> 
-<img src="/Wallpaper/black_lodge_02.png" width="300" /> 
+<img src="/Wallpaper/misc/black_lodge_01.png" width="300" /> 
+<img src="/Wallpaper/misc/black_lodge_02.png" width="300" /> 
 <br>
-<img src="/Wallpaper/black_lodge_03.png" width="300" /> 
-<img src="/Wallpaper/crkbd_01.png" width="300" /> 
+<img src="/Wallpaper/misc/black_lodge_03.png" width="300" /> 
+<img src="/Wallpaper/misc/crkbd_01.png" width="300" /> 
 <br>
-<img src="/Wallpaper/haskell_01.png" width="300" /> 
-<img src="/Wallpaper/kyb3rspace.png" width="300" /> 
+<img src="/Wallpaper/misc/haskell_01.png" width="300" /> 
+<img src="/Wallpaper/misc/kyb3rspace.png" width="300" /> 
 <br>
-<img src="/Wallpaper/nasa_01.png" width="300" /> 
-<img src="/Wallpaper/nasa_02.png" width="300" /> 
+<img src="/Wallpaper/misc/nasa_01.png" width="300" /> 
+<img src="/Wallpaper/misc/nasa_02.png" width="300" /> 
 <br>
-<img src="/Wallpaper/shell_01.png" width="300" /> 
-<img src="/Wallpaper/nixos_01.png" width="300" /> 
+<img src="/Wallpaper/misc/shell_01.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_01.png" width="300" /> 
 <br>
-<img src="/Wallpaper/nixos_03.png" width="300" /> 
-<img src="/Wallpaper/nixos_04.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_03.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_04.png" width="300" /> 
 <br>
-<img src="/Wallpaper/nixos_05.png" width="300" /> 
-<img src="/Wallpaper/nixos_06.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_05.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_06.png" width="300" /> 
 <br>
-<img src="/Wallpaper/nixos_07.png" width="300" /> 
-<img src="/Wallpaper/nixos_08.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_07.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_08.png" width="300" /> 
 <br>
-<img src="/Wallpaper/nixos_09.png" width="300" /> 
-<img src="/Wallpaper/nixos_10.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_09.png" width="300" /> 
+<img src="/Wallpaper/nixos/nixos_10.png" width="300" /> 
+</p>
+<img src="/Wallpaper/misc/htp_01.png" width="300" /> 
+<img src="/Wallpaper/misc/misc_01.png" width="300" /> 
+</p>
+<img src="/Wallpaper/misc/misc_02.png" width="300" /> 
 </p>
 
