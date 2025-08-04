@@ -31,12 +31,12 @@
 <img src="/Wallpaper/nixos/nixos_09.png" width="300" /> 
 <img src="/Wallpaper/nixos/nixos_10.png" width="300" /> 
 <br>
+<img src="/Wallpaper/nixos/nixos_11.png" width="300" /> 
 <img src="/Wallpaper/misc/htp_01.png" width="300" /> 
+<br>
 <img src="/Wallpaper/misc/misc_01.png" width="300" /> 
-<br>
 <img src="/Wallpaper/misc/misc_02.png" width="300" /> 
-<img src="/Wallpaper/misc/switch_01.png" width="300"/>
 <br>
-<img src="/Wallpaper/misc/nixos_11.png" width="300" /> 
+<img src="/Wallpaper/misc/switch_01.png" width="300"/>
 </p>
 
