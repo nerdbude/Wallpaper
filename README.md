@@ -40,4 +40,10 @@
 <img src="/Wallpaper/misc/switch_01.png" width="300"/>
 <img src="/Wallpaper/misc/x_files_01.png" width="300"/>
 </p>
+<img src="/Wallpaper/misc/hacktheplanet_ascii_01.png" width="300"/>
+<img src="/Wallpaper/misc/hacktheplanet_ascii_02.png" width="300"/>
+</p>
+<img src="/Wallpaper/misc/nerdbude_ascii_01.png" width="300"/>
+<img src="/Wallpaper/misc/nerdbude_ascii_02.png" width="300"/>
+</p>
 
