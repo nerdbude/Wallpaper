@@ -2,7 +2,6 @@
 <p align="center"><img src="/header.png" width="700"></p>
 <p align="center">All the wallpaper I use mostly remixed to Dracula Theme.</p>
 
-
 <p align="center">
 <img src="/Wallpaper/misc/black_lodge_01.png" width="300" /> 
 <img src="/Wallpaper/misc/black_lodge_02.png" width="300" /> 
