@@ -38,16 +38,16 @@
 <br>
 <img src="/Wallpaper/misc/switch_01.png" width="300"/>
 <img src="/Wallpaper/misc/x_files_01.png" width="300"/>
-</p>
+<br>
 <img src="/Wallpaper/misc/hacktheplanet_ascii_01.png" width="300"/>
 <img src="/Wallpaper/misc/hacktheplanet_ascii_02.png" width="300"/>
-</p>
+</br>
 <img src="/Wallpaper/misc/nerdbude_ascii_01.png" width="300"/>
 <img src="/Wallpaper/misc/nerdbude_ascii_02.png" width="300"/>
-</p>
+</br>
 <img src="/Wallpaper/misc/xmonad_01.png" width="300"/>
 <img src="/Wallpaper/misc/xmonad_02.png" width="300"/>
-</p>
+</br>
 <img src="/Wallpaper/misc/xmonad_03.png" width="300"/>
 <img src="/Wallpaper/misc/xmonad_04.png" width="300"/>
 </p>
